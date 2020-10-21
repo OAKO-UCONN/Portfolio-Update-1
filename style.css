@@ -7,6 +7,9 @@ img {
 }
 */
 
+h1 {
+  color: gold
+}
 
 #styledImage{
     border: 8px solid gold;
