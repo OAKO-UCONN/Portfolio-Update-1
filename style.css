@@ -16,6 +16,12 @@ h1 {
     border-style: groove;
 }
 
+form.signup,
+form.login {
+  margin-top: 50px;
+}
+
+
 /*
 .responsive {
   width: 500%;
@@ -58,46 +64,46 @@ h1 {
   .red {
     color: red
   }
-  
+
   .blue {
     color: blue;
   }
-  
+
   .green {
     color: green;
   }
-  
+
   .big {
     font-size: x-large;
   }
-  
+
   .tiny {
     font-size: x-small;
   }
-  
+
   .centered {
     text-align: center;
   }
-  
+
   .bold {
     font-weight: bold;
   }
-  
+
   .fancyfont {
     font-family: "Lucida Console", Courier, monospace;
   }
-  
+
   .bigorangebold {
     font-size: x-large;
     color: orange;
     font-weight: bold;
   }
-  
+
   .styledFont {
     font-family: "Lucida Console", Courier, monospace;
     color: teal
   }
-  
+
   #styledImage{
     border: 8px solid gold;
     border-style: groove;
